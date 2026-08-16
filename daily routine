@@ -1,0 +1,16 @@
+print("my daily routine")
+
+# step 1 waking up
+print("i wake up at 7:30")
+
+#step 2 going to school
+print("i go to school at 8:15am")
+
+#step 3 playing after school
+print("i play from 4:30-6:30 with my friends")
+
+#step 4 studying
+print("i study for 1 hours at night")
+
+#step 5 calculating study time in a week
+print("total study time in a week", 1*7)
